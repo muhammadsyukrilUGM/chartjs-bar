@@ -4,6 +4,7 @@
 
 ## Demo 
 https://handsondataviz.github.io/chartjs-bar/
+https://muhammadsyukrilugm.github.io/chartjs-bar/
 
 Sample data by CT Department of Education.
 
